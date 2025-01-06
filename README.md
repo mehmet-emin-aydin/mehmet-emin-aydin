@@ -30,10 +30,9 @@ I am an AI Engineer and a Computer Engineering graduate, passionate about buildi
 🌱 **Always Learning**:
 I’m continually exploring cutting-edge AI techniques and diving deeper into fields like policy optimization, reward modeling, informational retrieval, agentic workflows, and vector search.
 
----
 📫 **Let’s Connect**:
 Feel free to check out my repositories or reach out to collaborate on exciting AI projects!
-
+<!--
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
   <a href="www.linkedin.com/in/16mehmet-emin-aydin/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
@@ -45,7 +44,7 @@ Feel free to check out my repositories or reach out to collaborate on exciting A
     <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="30" height="30"/>
   </a>
 </div>
-
+-->
 ---
 
 🧰 Toolbox
