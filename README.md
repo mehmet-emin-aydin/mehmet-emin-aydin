@@ -24,7 +24,7 @@ I am an AI Engineer and a Computer Engineering graduate, passionate about buildi
 
 - Machine Learning | Reinforcement Learning
 - NLP | Generative AI
-- System Design | Software Engineering | Java
+- System Design | Software Engineering
 
 
 🌱 **Always Learning**:
