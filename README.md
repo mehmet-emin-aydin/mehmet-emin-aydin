@@ -10,14 +10,14 @@ I am an AI Engineer and a Computer Engineering graduate, passionate about buildi
 
 - **AI Model Development**: Fine-tuning and optimizing models using techniques like RLHF, DPO, and LoRA.
 - **Knowledge Systems**: Implementing RAG architectures and advanced summarization tools.
-- **Data Management**: Designing efficient database systems and integrating solutions with vectorstores like Milvus.
+- **Data Management**: Designing efficient database systems and integrating solutions with vectorstores.
 - **Backend Development**: Building scalable microservices with FastAPI, SQLAlchemy, and Docker.
 
 🎓 **Current Projects**:
 
 - Researching and comparing policy optimization techniques for large language models.
 - Developing tools to estimate functional software testing efforts using machine learning.
-- Building intelligent agent platforms that integrate with Atlassian Wiki and other knowledge bases.
+- Building intelligent agent platforms that integrate with knowledge bases.
 
 
 🚀 **Skills & Interests**:
