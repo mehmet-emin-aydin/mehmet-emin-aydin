@@ -50,7 +50,7 @@ Feel free to check out my repositories or reach out to collaborate on exciting A
 
 
 🧰 Toolbox
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center; background-color: #f6f8fa; padding: 20px; border-radius: 8px;">
+<div">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/langchain.svg" alt="LangChain" title="LangChain" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="50" height="50"/>
