@@ -2,7 +2,7 @@
 
 ---
 
-I am an AI Engineer and a Computer Engineering graduate, passionate about building intelligent systems that solve real-world problems. With experience in machine learning, natural language processing, and software development, I love tackling challenges at the intersection of AI and software engineering.
+I am an AI Engineer, passionate about building intelligent systems that solve real-world problems. With experience in machine learning, natural language processing, and software development, I love tackling challenges at the intersection of AI and software engineering.
 
 ---
 
