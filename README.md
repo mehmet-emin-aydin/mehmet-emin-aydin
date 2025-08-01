@@ -78,7 +78,7 @@ Feel free to check out my repositories or reach out to collaborate on exciting A
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehmet-emin-aydin&theme=dark&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="auto" width="auto"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=mehmet-emin-aydin&theme=dark&hide_border=false" alt="GitHub Streak" height="auto" width="auto"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet-emin-aydin&theme=dark&hide_border=rrue&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" height="auto" width="auto/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet-emin-aydin&theme=dark&hide_border=rrue&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" height="auto" width="auto"/>
 </div>
 
 ---
